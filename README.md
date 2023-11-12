@@ -9,3 +9,6 @@ table design assignment
 
 
   the table2 contain skyline ict student records with the details of no, full name, courses, passcode,cohort and approved
+
+
+  the table3 contain the student course outline with the details of student full name, course, location and the cohort
